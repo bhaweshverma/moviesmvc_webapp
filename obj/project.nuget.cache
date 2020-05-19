@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "z/MYIGJrUWVqbJL8x7n73rRMYkOG3tv8AOke1PSnuea6/5lJyt+N9MRA+CQX3bl0lpuPRbiwNU/d15isBLSQfQ==",
+  "dgSpecHash": "Hq1C7z8TJpwTcqVi7VTaIUXgn0syaQ3Oq8AYr+CUdiuI+GWF0qBV0rL7Ag97Q1JiOLhMDK5pC5pf0tcVw5sPFQ==",
   "success": true,
-  "projectFilePath": "E:\\dev\\dev-dotnet-core\\MoviesMVC\\MoviesMVC\\MoviesMVC.csproj",
+  "projectFilePath": "E:\\dev\\dev-dotnet-core\\moviesmvc_webapp\\MoviesMVC.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\bhawesh.verma\\.nuget\\packages\\microsoft.aspnetcore.authentication\\2.2.0\\microsoft.aspnetcore.authentication.2.2.0.nupkg.sha512",
     "C:\\Users\\bhawesh.verma\\.nuget\\packages\\microsoft.aspnetcore.authentication.abstractions\\2.2.0\\microsoft.aspnetcore.authentication.abstractions.2.2.0.nupkg.sha512",

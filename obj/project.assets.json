@@ -2107,11 +2107,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "E:\\dev\\dev-dotnet-core\\MoviesMVC\\MoviesMVC\\MoviesMVC.csproj",
+      "projectUniqueName": "E:\\dev\\dev-dotnet-core\\moviesmvc_webapp\\MoviesMVC.csproj",
       "projectName": "MoviesMVC",
-      "projectPath": "E:\\dev\\dev-dotnet-core\\MoviesMVC\\MoviesMVC\\MoviesMVC.csproj",
+      "projectPath": "E:\\dev\\dev-dotnet-core\\moviesmvc_webapp\\MoviesMVC.csproj",
       "packagesPath": "C:\\Users\\bhawesh.verma\\.nuget\\packages\\",
-      "outputPath": "E:\\dev\\dev-dotnet-core\\MoviesMVC\\MoviesMVC\\obj\\",
+      "outputPath": "E:\\dev\\dev-dotnet-core\\moviesmvc_webapp\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\bhawesh.verma\\AppData\\Roaming\\NuGet\\NuGet.Config",
