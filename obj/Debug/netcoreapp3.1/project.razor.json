@@ -1,5 +1,5 @@
 {
-  "FilePath": "e:\\dev\\dev-dotnet-core\\MoviesMVC\\MoviesMVC\\MoviesMVC.csproj",
+  "FilePath": "e:\\dev\\dev-dotnet-core\\moviesmvc_webapp\\MoviesMVC.csproj",
   "Configuration": {
     "ConfigurationName": "MVC-3.0",
     "LanguageVersion": "3.0",
@@ -20521,63 +20521,63 @@
   "RootNamespace": "MoviesMVC",
   "Documents": [
     {
-      "FilePath": "e:\\dev\\dev-dotnet-core\\MoviesMVC\\MoviesMVC\\Views\\Users\\Index.cshtml",
-      "TargetPath": "Views\\Users\\Index.cshtml",
-      "FileKind": "mvc"
-    },
-    {
-      "FilePath": "e:\\dev\\dev-dotnet-core\\MoviesMVC\\MoviesMVC\\Views\\Shared\\Error.cshtml",
-      "TargetPath": "Views\\Shared\\Error.cshtml",
-      "FileKind": "mvc"
-    },
-    {
-      "FilePath": "e:\\dev\\dev-dotnet-core\\MoviesMVC\\MoviesMVC\\Views\\Home\\Index.cshtml",
-      "TargetPath": "Views\\Home\\Index.cshtml",
-      "FileKind": "mvc"
-    },
-    {
-      "FilePath": "e:\\dev\\dev-dotnet-core\\MoviesMVC\\MoviesMVC\\Views\\Shared\\_Layout.cshtml",
+      "FilePath": "e:\\dev\\dev-dotnet-core\\moviesmvc_webapp\\Views\\Shared\\_Layout.cshtml",
       "TargetPath": "Views\\Shared\\_Layout.cshtml",
       "FileKind": "mvc"
     },
     {
-      "FilePath": "e:\\dev\\dev-dotnet-core\\MoviesMVC\\MoviesMVC\\Views\\_ViewStart.cshtml",
-      "TargetPath": "Views\\_ViewStart.cshtml",
-      "FileKind": "mvc"
-    },
-    {
-      "FilePath": "e:\\dev\\dev-dotnet-core\\MoviesMVC\\MoviesMVC\\Views\\_ViewImports.cshtml",
-      "TargetPath": "Views\\_ViewImports.cshtml",
-      "FileKind": "mvc"
-    },
-    {
-      "FilePath": "e:\\dev\\dev-dotnet-core\\MoviesMVC\\MoviesMVC\\Views\\Account\\Register.cshtml",
-      "TargetPath": "Views\\Account\\Register.cshtml",
-      "FileKind": "mvc"
-    },
-    {
-      "FilePath": "e:\\dev\\dev-dotnet-core\\MoviesMVC\\MoviesMVC\\Views\\Home\\Privacy.cshtml",
-      "TargetPath": "Views\\Home\\Privacy.cshtml",
-      "FileKind": "mvc"
-    },
-    {
-      "FilePath": "e:\\dev\\dev-dotnet-core\\MoviesMVC\\MoviesMVC\\Views\\Users\\Create.cshtml",
-      "TargetPath": "Views\\Users\\Create.cshtml",
-      "FileKind": "mvc"
-    },
-    {
-      "FilePath": "e:\\dev\\dev-dotnet-core\\MoviesMVC\\MoviesMVC\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
-      "TargetPath": "Views\\Shared\\_ValidationScriptsPartial.cshtml",
-      "FileKind": "mvc"
-    },
-    {
-      "FilePath": "e:\\dev\\dev-dotnet-core\\MoviesMVC\\MoviesMVC\\Views\\Account\\Login.cshtml",
+      "FilePath": "e:\\dev\\dev-dotnet-core\\moviesmvc_webapp\\Views\\Account\\Login.cshtml",
       "TargetPath": "Views\\Account\\Login.cshtml",
       "FileKind": "mvc"
     },
     {
-      "FilePath": "e:\\dev\\dev-dotnet-core\\MoviesMVC\\MoviesMVC\\Views\\Users\\Privacy.cshtml",
+      "FilePath": "e:\\dev\\dev-dotnet-core\\moviesmvc_webapp\\Views\\Shared\\Error.cshtml",
+      "TargetPath": "Views\\Shared\\Error.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "e:\\dev\\dev-dotnet-core\\moviesmvc_webapp\\Views\\Users\\Index.cshtml",
+      "TargetPath": "Views\\Users\\Index.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "e:\\dev\\dev-dotnet-core\\moviesmvc_webapp\\Views\\Users\\Create.cshtml",
+      "TargetPath": "Views\\Users\\Create.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "e:\\dev\\dev-dotnet-core\\moviesmvc_webapp\\Views\\Home\\Privacy.cshtml",
+      "TargetPath": "Views\\Home\\Privacy.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "e:\\dev\\dev-dotnet-core\\moviesmvc_webapp\\Views\\Account\\Register.cshtml",
+      "TargetPath": "Views\\Account\\Register.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "e:\\dev\\dev-dotnet-core\\moviesmvc_webapp\\Views\\Home\\Index.cshtml",
+      "TargetPath": "Views\\Home\\Index.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "e:\\dev\\dev-dotnet-core\\moviesmvc_webapp\\Views\\_ViewStart.cshtml",
+      "TargetPath": "Views\\_ViewStart.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "e:\\dev\\dev-dotnet-core\\moviesmvc_webapp\\Views\\Users\\Privacy.cshtml",
       "TargetPath": "Views\\Users\\Privacy.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "e:\\dev\\dev-dotnet-core\\moviesmvc_webapp\\Views\\_ViewImports.cshtml",
+      "TargetPath": "Views\\_ViewImports.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "e:\\dev\\dev-dotnet-core\\moviesmvc_webapp\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+      "TargetPath": "Views\\Shared\\_ValidationScriptsPartial.cshtml",
       "FileKind": "mvc"
     }
   ],
