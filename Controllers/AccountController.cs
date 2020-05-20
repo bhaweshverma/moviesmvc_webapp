@@ -9,6 +9,8 @@ using Newtonsoft.Json;
 using System.Text;
 using System.Collections.Generic;
 using Microsoft.Extensions.Configuration;
+using Microsoft.Extensions.Logging;
+using System;
 
 namespace MoviesMVC.Controllers
 {
@@ -19,10 +21,12 @@ namespace MoviesMVC.Controllers
         private HttpClientAPI httpClient = new HttpClientAPI();
         private string _jwtApiBaseUri = "http://localhost:5003";
         private IConfiguration _config;
+        private readonly ILogger _logger; 
 
-        public AccountController(IConfiguration config)
+        public AccountController(IConfiguration config, ILogger<AccountController> logger)
         {
             this._config = config;
+            this._logger = logger;
         }    
         /*public AccountController(UserManager<User> userManager, 
         SignInManager<User> signInManager)
@@ -34,6 +38,9 @@ namespace MoviesMVC.Controllers
         [HttpGet]
         public IActionResult Register()
         {
+            var message = $"Register page opened at {DateTime.Now}";
+            _logger.LogInformation(message);
+            _logger.LogWarning(message);
             return View();
         }
 

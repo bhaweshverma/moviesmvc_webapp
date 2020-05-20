@@ -18,6 +18,16 @@ namespace MoviesMVC
 
         public static IHostBuilder CreateHostBuilder(string[] args) =>
             Host.CreateDefaultBuilder(args)
+                .ConfigureLogging(logging => {
+                    logging.ClearProviders();
+                    logging.AddConsole();
+                    logging.AddDebug();
+                    //logging.AddEventLog();
+                    logging.AddEventLog(eventLogSettings  => {
+                        eventLogSettings.SourceName = "Movies MVC Web App";
+                        //options.MachineName = "local machine";
+                    });
+                })
                 .ConfigureWebHostDefaults(webBuilder =>
                 {
                     webBuilder.UseStartup<Startup>();
