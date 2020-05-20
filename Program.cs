@@ -22,10 +22,9 @@ namespace MoviesMVC
                     logging.ClearProviders();
                     logging.AddConsole();
                     logging.AddDebug();
-                    //logging.AddEventLog();
                     logging.AddEventLog(eventLogSettings  => {
-                        eventLogSettings.SourceName = "Movies MVC Web App";
-                        //options.MachineName = "local machine";
+                        // this source name must be registered in Registry as key with same name
+                        eventLogSettings.SourceName = "MoviesMVCWebapp";
                     });
                 })
                 .ConfigureWebHostDefaults(webBuilder =>
