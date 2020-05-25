@@ -11,6 +11,7 @@ using Microsoft.Extensions.Hosting;
 using Microsoft.AspNetCore.Identity;
 using MoviesMVC.Models;
 using Microsoft.Extensions.Logging;
+using MoviesMVC.Hubs;
 
 namespace MoviesMVC
 {
@@ -32,6 +33,7 @@ namespace MoviesMVC
             }).AddEntityFrameworkStores<ApplicationDbContext>();
             */
             services.AddControllersWithViews();
+            services.AddSignalR();
         }
 
         // This method gets called by the runtime. Use this method to configure the HTTP request pipeline.
@@ -55,12 +57,13 @@ namespace MoviesMVC
             app.UseRouting();
             
             app.UseAuthorization();
-
+            
             app.UseEndpoints(endpoints =>
             {
                 endpoints.MapControllerRoute(
                     name: "default",
-                    pattern: "{controller=Account}/{action=Register}/{id?}");
+                    pattern: "{controller=Home}/{action=Index}/{id?}");
+                endpoints.MapHub<Chathub>("/chathub");
             });
         }
     }

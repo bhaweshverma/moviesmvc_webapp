@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "Hq1C7z8TJpwTcqVi7VTaIUXgn0syaQ3Oq8AYr+CUdiuI+GWF0qBV0rL7Ag97Q1JiOLhMDK5pC5pf0tcVw5sPFQ==",
+  "dgSpecHash": "/pd+4OVkN1GuWahZqpU4buUdrH+lsZv8dxDIWx4LugNSKj0VlWNsnRtyExBTscNT87KA/y8F5gL9GVMnHvzIrg==",
   "success": true,
   "projectFilePath": "E:\\dev\\dev-dotnet-core\\moviesmvc_webapp\\MoviesMVC.csproj",
   "expectedPackageFiles": [
@@ -40,6 +40,7 @@
     "C:\\Users\\bhawesh.verma\\.nuget\\packages\\microsoft.extensions.fileproviders.abstractions\\3.1.3\\microsoft.extensions.fileproviders.abstractions.3.1.3.nupkg.sha512",
     "C:\\Users\\bhawesh.verma\\.nuget\\packages\\microsoft.extensions.fileproviders.embedded\\3.1.3\\microsoft.extensions.fileproviders.embedded.3.1.3.nupkg.sha512",
     "C:\\Users\\bhawesh.verma\\.nuget\\packages\\microsoft.extensions.hosting.abstractions\\2.2.0\\microsoft.extensions.hosting.abstractions.2.2.0.nupkg.sha512",
+    "C:\\Users\\bhawesh.verma\\.nuget\\packages\\microsoft.extensions.http\\2.1.1\\microsoft.extensions.http.2.1.1.nupkg.sha512",
     "C:\\Users\\bhawesh.verma\\.nuget\\packages\\microsoft.extensions.identity.core\\3.1.3\\microsoft.extensions.identity.core.3.1.3.nupkg.sha512",
     "C:\\Users\\bhawesh.verma\\.nuget\\packages\\microsoft.extensions.identity.stores\\3.1.3\\microsoft.extensions.identity.stores.3.1.3.nupkg.sha512",
     "C:\\Users\\bhawesh.verma\\.nuget\\packages\\microsoft.extensions.logging\\3.1.3\\microsoft.extensions.logging.3.1.3.nupkg.sha512",
@@ -52,6 +53,7 @@
     "C:\\Users\\bhawesh.verma\\.nuget\\packages\\microsoft.netcore.platforms\\2.0.0\\microsoft.netcore.platforms.2.0.0.nupkg.sha512",
     "C:\\Users\\bhawesh.verma\\.nuget\\packages\\microsoft.win32.registry\\4.5.0\\microsoft.win32.registry.4.5.0.nupkg.sha512",
     "C:\\Users\\bhawesh.verma\\.nuget\\packages\\newtonsoft.json\\12.0.3\\newtonsoft.json.12.0.3.nupkg.sha512",
+    "C:\\Users\\bhawesh.verma\\.nuget\\packages\\ngrok.aspnetcore\\1.0.6\\ngrok.aspnetcore.1.0.6.nupkg.sha512",
     "C:\\Users\\bhawesh.verma\\.nuget\\packages\\system.buffers\\4.5.0\\system.buffers.4.5.0.nupkg.sha512",
     "C:\\Users\\bhawesh.verma\\.nuget\\packages\\system.collections.immutable\\1.7.0\\system.collections.immutable.1.7.0.nupkg.sha512",
     "C:\\Users\\bhawesh.verma\\.nuget\\packages\\system.componentmodel.annotations\\4.7.0\\system.componentmodel.annotations.4.7.0.nupkg.sha512",

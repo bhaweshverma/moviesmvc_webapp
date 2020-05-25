@@ -142,3 +142,5 @@ E:\dev\dev-dotnet-core\moviesmvc_webapp\obj\Debug\netcoreapp3.1\staticwebassets\
 E:\dev\dev-dotnet-core\moviesmvc_webapp\obj\Debug\netcoreapp3.1\MoviesMVC.dll
 E:\dev\dev-dotnet-core\moviesmvc_webapp\obj\Debug\netcoreapp3.1\MoviesMVC.pdb
 E:\dev\dev-dotnet-core\moviesmvc_webapp\obj\Debug\netcoreapp3.1\MoviesMVC.genruntimeconfig.cache
+E:\dev\dev-dotnet-core\moviesmvc_webapp\bin\Debug\netcoreapp3.1\libman.json
+E:\dev\dev-dotnet-core\moviesmvc_webapp\bin\Debug\netcoreapp3.1\NgrokAspNetCore.Lib.dll
