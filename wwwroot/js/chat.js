@@ -27,4 +27,4 @@ document.getElementById("sendButton").addEventListener("click", function(event) 
         return console.log(err.toString());
     });
     event.preventDefault();
-})
+});
